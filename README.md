@@ -1,6 +1,6 @@
 # Weather-box
 
-Weather widget built by pure SVG animation
+Weather widget built of CSS SVG animation
 
 HTML(Pug) / CSS(SASS) SVG animation 
 
